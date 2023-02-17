@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Owusu Duah</h1>
 <h3 align="center">A proactive Data Engineer with 4 years experience building ETL pipelines</h3>
-<img align="center" width=400 src="https://github.com/johnowusuduah/johnowusuduah/blob/main/pass_by_value_reference.gif">
+<img align="left" width=400 src="https://github.com/johnowusuduah/johnowusuduah/blob/main/data_engineering_gif.gif">
 
 <p align="left"> <a href="https://twitter.com/curiouskwaku" target="blank"><img src="https://img.shields.io/twitter/follow/curiouskwaku?logo=twitter&style=for-the-badge" alt="curiouskwaku" /></a> </p>
 
