@@ -1,3 +1,4 @@
+[!Header](https://github.com/johnowusuduah/johnowusuduah/blob/main/github_header.png)
 <h1 align="center">Hi 👋, I'm John Owusu Duah</h1>
 <h3 align="center">A proactive Data Engineer with 4 years experience building ETL pipelines</h3>
 <img align="right" width=400 src="https://github.com/johnowusuduah/johnowusuduah/blob/main/data_engineering_gif.gif">
