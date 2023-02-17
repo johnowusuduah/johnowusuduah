@@ -1,4 +1,4 @@
-![Header](https://www.canva.com/design/DAFa3wGb69Q/fHl6coqpJ9-jqUwsI_fg1Q/watch?utm_content=DAFa3wGb69Q&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+## Data Engineer
 
 <h3 align="center">A proactive end-to-end Data Engineer with 4 years experience building ETL pipelines, Data Warehouses, Predictive Models and Business Intelligence Visualizations</h3>
 <img align="right" width=400 src="https://github.com/johnowusuduah/johnowusuduah/blob/main/data_engineering_gif.gif">
