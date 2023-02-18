@@ -1,4 +1,4 @@
-<h1 align="center" > Data Engineer </h1>
+<h1 align="center" > Data Engineer II </h1>
 
 <h3 align="center">A proactive end-to-end Data Engineer with 4 years experience building ETL pipelines, Data Warehouses, Predictive Models and Business Intelligence Visualizations</h3>
 <img align="right" width=400 src="https://github.com/johnowusuduah/johnowusuduah/blob/main/data_engineering_gif.gif">
