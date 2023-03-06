@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://johnowusuduah.github.io/portfolio/](https://johnowusuduah.github.io/portfolio/)
 
-- 💬 Ask me about **Snowflake, AWS, PyTorch, SQL and Python**
+- 💬 Ask me about **Python, SQL, Databricks, Machine Learning, Snowflake, AWS, Azure & PyTorch**
 
 - 📫 How to reach me **jo156@duke.edu**
 
