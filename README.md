@@ -1,17 +1,15 @@
-<h1 align="center" > Data Engineer | Machine Learning Specialist | AI Researcher </h1>
+<h1 align="center" > Autonomous Vehicle & Earthquake Engineering Researcher </h1>
 
-<h3 align="center">A proactive end-to-end Data Engineer with 4 years experience building ETL pipelines, Data Warehouses, Predictive Machine Learning Models and Business Intelligence Visualizations</h3>
+<h3 align="center"></h3>
 <img align="right" width=400 src="https://github.com/johnowusuduah/johnowusuduah/blob/main/data_engineering_gif.gif">
 
 <p align="left"> <a href="https://twitter.com/curiouskwaku" target="blank"><img src="https://img.shields.io/twitter/follow/curiouskwaku?logo=twitter&style=for-the-badge" alt="curiouskwaku" /></a> </p>
 
-- 🔭 I’m currently working on **publishing a paper on a novel data set for autonomous vehicle scene understanding**
+- 🔭 I’m currently working on **building a dataset that addresses the problem of Autonomous Vehicle understanding of diverse, complex and naturalistic edge scenes.**
 
-- 🌱 I’m currently learning **Spark Streaming**
+- 👨‍💻 My projects are available at [https://johnowusuduah.github.io/portfolio/](https://johnowusuduah.github.io/portfolio/)
 
-- 👨‍💻 All of my projects are available at [https://johnowusuduah.github.io/portfolio/](https://johnowusuduah.github.io/portfolio/)
-
-- 💬 Ask me about **Python, SQL, Databricks, Machine Learning, Snowflake, AWS, Azure & PyTorch**
+- 💬 Ask me about **Computer Vision, Autonomous Vehicles, Earthquakes, Python, SQL, Databricks, Machine Learning, Snowflake, AWS, Azure & PyTorch**
 
 - 📫 How to reach me **jo156@duke.edu**
 
