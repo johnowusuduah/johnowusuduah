@@ -1,4 +1,4 @@
-<h1 align="center" > Autonomous Vehicle & Earthquake Engineering Researcher </h1>
+<h1 align="center" > Data Engineer | Data Scientist | Autonomous Vehicle & Earthquake Engineering Researcher </h1>
 
 <h3 align="center"></h3>
 <img align="right" width=400 src="https://github.com/johnowusuduah/johnowusuduah/blob/main/data_engineering_gif.gif">
